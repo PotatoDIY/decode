@@ -1,0 +1,9 @@
+C:\Users\admin\source\repos\Decode\bin\Debug\Decode.exe.config
+C:\Users\admin\source\repos\Decode\bin\Debug\Decode.exe
+C:\Users\admin\source\repos\Decode\bin\Debug\Decode.pdb
+C:\Users\admin\source\repos\Decode\obj\Debug\Decode.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Decode\obj\Debug\Decode.Form1.resources
+C:\Users\admin\source\repos\Decode\obj\Debug\Decode.Properties.Resources.resources
+C:\Users\admin\source\repos\Decode\obj\Debug\Decode.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Decode\obj\Debug\Decode.exe
+C:\Users\admin\source\repos\Decode\obj\Debug\Decode.pdb
